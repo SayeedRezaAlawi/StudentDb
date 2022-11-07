@@ -1,0 +1,8 @@
+2
+W;123;APT;Automation;5;123;APT;Automation;5;1;12:30;13:30
+B;345;CProgramming;Embedded;5;20.10.2010;30.10.2010;12:20;12:50
+2
+100000;alawi;reza;20.7.1985;dfd;34;fd;fbvfd
+100001;khawari;hasan;20.10.2010;30.10.2010;56;fddvd;na
+100000;alawi;reza;20.7.1985;dfd;34;fd;fbvfd
+100001;khawari;hasan;20.10.2010;30.10.2010;56;fddvd;na
